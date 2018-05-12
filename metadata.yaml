@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1714
     wikipedia: http://en.wikipedia.org/wiki/Henry_Morton_Stanley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17528#Stanley-s-tocht-ter-opsporing-van-LivingstoneDe-Aarde-en-haar-Volken-1873
 gutenberg_bookshelf: De Aarde en haar Volken
 gutenberg_issued: '2006-01-16'
 gutenberg_type: Text
