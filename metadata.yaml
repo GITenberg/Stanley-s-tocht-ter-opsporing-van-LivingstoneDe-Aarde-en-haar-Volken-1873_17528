@@ -1,0 +1,36 @@
+_repo: Stanley-s-tocht-ter-opsporing-van-LivingstoneDe-Aarde-en-haar-Volken-1873_17528
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stanley, Henry M. (Henry Morton)
+    aliases:
+    - Rowlands, John
+    - Stanley, Henry Morton, Sir
+    - Stanley, H. M. (Henry Morton)
+    birthdate: 1841
+    deathdate: 1904
+    gutenberg_agent_id: '1714'
+    url: http://www.gutenberg.org/2009/agents/1714
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Morton_Stanley
+description: ''
+gutenberg_bookshelf: De Aarde en haar Volken
+gutenberg_issued: '2006-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17528'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Africa, Central -- Description and travel'
+- !lcsh 'Livingstone, David, 1813-1873'
+- !lcsh 'Stanley, Henry M. (Henry Morton), 1841-1904'
+- !lcc 'DT'
+title: 'Stanley''s tocht ter opsporing van Livingstone
+
+  De Aarde en haar Volken, 1873'
+url: http://www.gutenberg.org/ebooks/17528
